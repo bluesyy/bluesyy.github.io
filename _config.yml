@@ -20,7 +20,8 @@ url:                   https://bluesyy.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 프로그래밍 기록
+title:                 PROGRAMMING
+                       NEWBIE
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -56,18 +57,20 @@ menu:
     url:               /codingtest/
   - title:             Book
     url:               /book/
+  - title:             Etc
+    url:               /etc/  
   - title:             Blog
     url:               /blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+#  - title:             LICENSE
+#    url:               /LICENSE/
+#  - title:             NOTICE
+#    url:               /NOTICE/
+#  - title:             CHANGELOG
+#    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2021. All rights reserved.
