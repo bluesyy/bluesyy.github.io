@@ -51,14 +51,11 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
+  - title:             Java
+    url:               /java/
   - title:             Book
-    url:               /book/   
-  - title:             Projects
-    url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+    url:               /book/
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

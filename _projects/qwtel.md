@@ -1,7 +1,7 @@
 ---
 layout: project
 title: '@qwtel'
-caption: How I use Hydejack on my personal site.
+caption: How I use Hydejack on my personal site.    
 description: >
   This is how I use Hydejack on my personal site. 
   Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
