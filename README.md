@@ -1,7 +1,9 @@
 # Welcome to bluesyy's Github Page
 
+<!--
 ![bluesyy][logo-white]
 ![bluesyy][logo-black]
+-->
 
 ***Apply Neat, Clean Theme to my github page***
 
